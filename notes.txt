@@ -19,3 +19,6 @@
 - System should be tested for simplicity and ease of navigation  
 - Special attention needed for budget calculation accuracy  
 - Ensure categories are intuitive for users
+
+## Note
+These notes will be updated during and after development as real testing begins.
