@@ -1,0 +1,6 @@
+Test Plan (Draft)
+
+- Test login functionality
+- Test adding expenses
+- Test budget alerts
+- Test categories
