@@ -1,0 +1,5 @@
+Project Notes
+
+- App should be simple and user friendly
+- Must work on low-end devices
+- Clear categories for expenses
