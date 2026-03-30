@@ -1,6 +1,9 @@
 Test Plan (Draft)
 
+- Login test cases
+- Input validation tests
+- Navigation testing plan
 - Test login functionality
 - Test adding expenses
-- Test budget alerts
 - Test categories
+- Test budget alerts
