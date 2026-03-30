@@ -24,3 +24,6 @@
 - Usability and simplicity  
 - Performance on low-end devices  
 - Data accuracy in expense tracking
+
+## Note
+This test plan will be updated once development begins and features are implemented.
