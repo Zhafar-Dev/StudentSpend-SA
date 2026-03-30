@@ -1,8 +1,21 @@
-Project Notes
+# QA Planning Notes
 
-- App should be simple and user friendly
-- Must work on low-end devices
-- Clear categories for expenses
-- What you tested so far
-- Any bugs found (even simple ones like UI misalignment or input errors)
-- General observations about system behaviour
+## System Goals
+- The application should be simple and easy to use  
+- It should perform well on low-end devices  
+- It should provide clear expense categorisation  
+
+## QA Approach
+- Testing will be done after each feature is developed  
+- Both functional and usability testing will be applied  
+- Bugs will be logged and reported to developers  
+
+## Focus Areas
+- Input validation and error handling  
+- User interface consistency  
+- Performance and responsiveness  
+
+## Observations (Planned)
+- System should be tested for simplicity and ease of navigation  
+- Special attention needed for budget calculation accuracy  
+- Ensure categories are intuitive for users
