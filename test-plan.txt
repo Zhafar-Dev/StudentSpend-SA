@@ -1,9 +1,26 @@
-Test Plan (Draft)
+# Test Plan (Draft)
 
-- Login test cases
-- Input validation tests
-- Navigation testing plan
-- Test login functionality
-- Test adding expenses
-- Test categories
-- Test budget alerts
+## System Requirements to be Tested
+- App must be simple and user friendly  
+- Must work on low-end devices  
+- Must allow clear categorisation of expenses  
+
+## Planned Functional Testing
+- Login functionality (once developed)  
+- Adding expenses feature  
+- Category management system  
+- Budget alert system  
+
+## Planned Input Validation Testing
+- Empty input fields  
+- Invalid numeric values  
+- Incorrect formats  
+
+## Planned Navigation Testing
+- Ensure all pages/screens are accessible  
+- Ensure smooth user flow between features  
+
+## Expected Focus Areas
+- Usability and simplicity  
+- Performance on low-end devices  
+- Data accuracy in expense tracking
