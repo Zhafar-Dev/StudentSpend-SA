@@ -3,3 +3,6 @@ Project Notes
 - App should be simple and user friendly
 - Must work on low-end devices
 - Clear categories for expenses
+- What you tested so far
+- Any bugs found (even simple ones like UI misalignment or input errors)
+- General observations about system behaviour
